@@ -1,0 +1,92 @@
+[
+  {
+    "ner": "Temka",
+    "dun": {
+      "math": 96,
+      "physic": 90,
+      "history": 97
+    },
+    "huis": "eregtei"
+  },
+  {
+    "ner": "Suhee",
+    "dun": {
+      "math": 100,
+      "physic": 98,
+      "history": 97
+    },
+    "huis": "eregtei"
+  },
+  {
+    "ner": "Saraa",
+    "dun": {
+      "math": 100,
+      "physic": 100,
+      "history": 98
+    },
+    "huis": "emegtei"
+  },
+  {
+    "ner": "Batuka",
+    "dun": {
+      "math": 100,
+      "physic": 98,
+      "history": 95
+    },
+    "huis": "eregtei"
+  },
+  {
+    "ner": "Ali",
+    "dun": {
+      "math": 95,
+      "physic": 95,
+      "history": 95
+    },
+    "huis": "eregtei"
+  },
+  {
+    "ner": "Saruul",
+    "dun": {
+      "math": 93,
+      "physic": 97,
+      "history": 98
+    },
+    "huis": "emegtei"
+  },
+  {
+    "ner": "Bulgaa",
+    "dun": {
+      "math": 90,
+      "physic": 90,
+      "history": 100
+    },
+    "huis": "eregtei"
+  },
+  {
+    "ner": "Nomio",
+    "dun": {
+      "math": 95,
+      "physic": 90,
+      "history": 98
+    },
+    "huis": "emegtei"
+  },
+  {
+    "ner": "Nandia",
+    "dun": {
+      "math": 93,
+      "physic": 90,
+      "history": 95
+    },
+    "huis": "emegtei"
+  },
+  {
+    "ner": "Tugsuu",
+    "dun": {
+      "math": 98,
+      "physic": 95,
+      "history": 98
+    },
+    "huis": "eregtei"
+  }
+]
